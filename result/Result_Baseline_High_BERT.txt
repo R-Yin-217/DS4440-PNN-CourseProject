@@ -1,0 +1,152 @@
+Fold 1
+Epoch 1
+0: {'precision': 0.9122330097087379, 'recall': 0.9452716297786721, 'f1-score': 0.9284584980237155, 'support': 2485.0}
+1: {'precision': 0.9439175257731959, 'recall': 0.9101391650099404, 'f1-score': 0.9267206477732793, 'support': 2515.0}
+accuracy: 0.9276
+macro avg: {'precision': 0.9280752677409669, 'recall': 0.9277053973943062, 'f1-score': 0.9275895728984974, 'support': 5000.0}
+weighted avg: {'precision': 0.9281703212891603, 'recall': 0.9276, 'f1-score': 0.9275843593477461, 'support': 5000.0}
+
+Epoch 2
+0: {'precision': 0.9338146811070999, 'recall': 0.93682092555332, 'f1-score': 0.9353153877059062, 'support': 2485.0}
+1: {'precision': 0.9373753490227363, 'recall': 0.9343936381709742, 'f1-score': 0.9358821186778176, 'support': 2515.0}
+accuracy: 0.9356
+macro avg: {'precision': 0.9355950150649182, 'recall': 0.935607281862147, 'f1-score': 0.9355987531918619, 'support': 5000.0}
+weighted avg: {'precision': 0.935605697068665, 'recall': 0.9356, 'f1-score': 0.9356004533847776, 'support': 5000.0}
+
+Epoch 3
+0: {'precision': 0.9294490685691637, 'recall': 0.9436619718309859, 'f1-score': 0.9365015974440893, 'support': 2485.0}
+1: {'precision': 0.9434800161485668, 'recall': 0.9292246520874752, 'f1-score': 0.936298076923077, 'support': 2515.0}
+accuracy: 0.9364
+macro avg: {'precision': 0.9364645423588652, 'recall': 0.9364433119592306, 'f1-score': 0.9363998371835831, 'support': 5000.0}
+weighted avg: {'precision': 0.9365066352016034, 'recall': 0.9364, 'f1-score': 0.93639922662202, 'support': 5000.0}
+
+Epoch 4
+0: {'precision': 0.938965238480194, 'recall': 0.9348088531187123, 'f1-score': 0.936882435974995, 'support': 2485.0}
+1: {'precision': 0.9358669833729216, 'recall': 0.9399602385685885, 'f1-score': 0.9379091450109105, 'support': 2515.0}
+accuracy: 0.9374
+macro avg: {'precision': 0.9374161109265577, 'recall': 0.9373845458436504, 'f1-score': 0.9373957904929527, 'support': 5000.0}
+weighted avg: {'precision': 0.9374068161612359, 'recall': 0.9374, 'f1-score': 0.9373988706200606, 'support': 5000.0}
+
+
+
+Fold 2
+Epoch 1
+0: {'precision': 0.9385179153094463, 'recall': 0.9305611626968107, 'f1-score': 0.9345226028785729, 'support': 2477.0}
+1: {'precision': 0.9323899371069182, 'recall': 0.9401506143479984, 'f1-score': 0.9362541938030392, 'support': 2523.0}
+accuracy: 0.9354
+macro avg: {'precision': 0.9354539262081822, 'recall': 0.9353558885224045, 'f1-score': 0.935388398340806, 'support': 5000.0}
+weighted avg: {'precision': 0.9354257375084506, 'recall': 0.9354, 'f1-score': 0.9353963636590586, 'support': 5000.0}
+
+Epoch 2
+0: {'precision': 0.9410089503661514, 'recall': 0.9337908760597498, 'f1-score': 0.9373860182370821, 'support': 2477.0}
+1: {'precision': 0.9354838709677419, 'recall': 0.9425287356321839, 'f1-score': 0.9389930898321815, 'support': 2523.0}
+accuracy: 0.9382
+macro avg: {'precision': 0.9382464106669466, 'recall': 0.9381598058459668, 'f1-score': 0.9381895540346319, 'support': 5000.0}
+weighted avg: {'precision': 0.938220995301714, 'recall': 0.9382, 'f1-score': 0.9381969465639693, 'support': 5000.0}
+
+Epoch 3
+0: {'precision': 0.9207151185386708, 'recall': 0.9563988696003229, 'f1-score': 0.9382178217821783, 'support': 2477.0}
+1: {'precision': 0.9555006180469716, 'recall': 0.9191438763376932, 'f1-score': 0.9369696969696971, 'support': 2523.0}
+accuracy: 0.9376
+macro avg: {'precision': 0.9381078682928212, 'recall': 0.937771372969008, 'f1-score': 0.9375937593759377, 'support': 5000.0}
+weighted avg: {'precision': 0.9382678815905594, 'recall': 0.9376, 'f1-score': 0.9375880180018002, 'support': 5000.0}
+
+Epoch 4
+0: {'precision': 0.9340791050739113, 'recall': 0.9438837303189342, 'f1-score': 0.9389558232931727, 'support': 2477.0}
+1: {'precision': 0.9443331998398078, 'recall': 0.9346016646848989, 'f1-score': 0.9394422310756972, 'support': 2523.0}
+accuracy: 0.9392
+macro avg: {'precision': 0.9392061524568596, 'recall': 0.9392426975019166, 'f1-score': 0.939199027184435, 'support': 5000.0}
+weighted avg: {'precision': 0.9392533212927827, 'recall': 0.9392, 'f1-score': 0.9392012646602347, 'support': 5000.0}
+
+
+
+Fold 3
+Epoch 1
+0: {'precision': 0.9304174950298211, 'recall': 0.9330143540669856, 'f1-score': 0.9317141150706748, 'support': 2508.0}
+1: {'precision': 0.9323943661971831, 'recall': 0.9297752808988764, 'f1-score': 0.931082981715893, 'support': 2492.0}
+accuracy: 0.9314
+macro avg: {'precision': 0.9314059306135021, 'recall': 0.931394817482931, 'f1-score': 0.9313985483932838, 'support': 5000.0}
+weighted avg: {'precision': 0.9314027676196344, 'recall': 0.9314, 'f1-score': 0.9313995582066517, 'support': 5000.0}
+
+Epoch 2
+0: {'precision': 0.9612736660929432, 'recall': 0.8907496012759171, 'f1-score': 0.9246688741721854, 'support': 2508.0}
+1: {'precision': 0.8976083707025411, 'recall': 0.963884430176565, 'f1-score': 0.9295665634674922, 'support': 2492.0}
+accuracy: 0.9272
+macro avg: {'precision': 0.9294410183977422, 'recall': 0.927317015726241, 'f1-score': 0.9271177188198387, 'support': 5000.0}
+weighted avg: {'precision': 0.9295428828703669, 'recall': 0.9272, 'f1-score': 0.9271098825169661, 'support': 5000.0}
+
+Epoch 3
+0: {'precision': 0.9451546391752578, 'recall': 0.9138755980861244, 'f1-score': 0.9292519764848975, 'support': 2508.0}
+1: {'precision': 0.9161165048543689, 'recall': 0.9466292134831461, 'f1-score': 0.9311229524373397, 'support': 2492.0}
+accuracy: 0.9302
+macro avg: {'precision': 0.9306355720148134, 'recall': 0.9302524057846353, 'f1-score': 0.9301874644611186, 'support': 5000.0}
+weighted avg: {'precision': 0.9306820330297269, 'recall': 0.9302, 'f1-score': 0.9301844708995947, 'support': 5000.0}
+
+Epoch 4
+0: {'precision': 0.9409609120521173, 'recall': 0.921451355661882, 'f1-score': 0.9311039484286865, 'support': 2508.0}
+1: {'precision': 0.922562893081761, 'recall': 0.9418138041733547, 'f1-score': 0.93208895949166, 'support': 2492.0}
+accuracy: 0.9316
+macro avg: {'precision': 0.9317619025669391, 'recall': 0.9316325799176184, 'f1-score': 0.9315964539601733, 'support': 5000.0}
+weighted avg: {'precision': 0.9317913393972919, 'recall': 0.9316, 'f1-score': 0.9315948779424725, 'support': 5000.0}
+
+
+
+Fold 4
+Epoch 1
+0: {'precision': 0.8928838951310861, 'recall': 0.956661316211878, 'f1-score': 0.9236729949631926, 'support': 2492.0}
+1: {'precision': 0.9536480686695279, 'recall': 0.8859649122807017, 'f1-score': 0.9185613890037205, 'support': 2508.0}
+accuracy: 0.9212
+macro avg: {'precision': 0.9232659819003071, 'recall': 0.9213131142462898, 'f1-score': 0.9211171919834565, 'support': 5000.0}
+weighted avg: {'precision': 0.9233632045779686, 'recall': 0.9212, 'f1-score': 0.9211090134139213, 'support': 5000.0}
+
+Epoch 2
+0: {'precision': 0.9604086845466155, 'recall': 0.9052969502407705, 'f1-score': 0.9320388349514565, 'support': 2492.0}
+1: {'precision': 0.9109769898151641, 'recall': 0.9629186602870813, 'f1-score': 0.9362279511533242, 'support': 2508.0}
+accuracy: 0.9342
+macro avg: {'precision': 0.9356928371808898, 'recall': 0.9341078052639259, 'f1-score': 0.9341333930523903, 'support': 5000.0}
+weighted avg: {'precision': 0.9356137464693195, 'recall': 0.9342, 'f1-score': 0.9341400956383134, 'support': 5000.0}
+
+Epoch 3
+0: {'precision': 0.9519071310116086, 'recall': 0.9213483146067416, 'f1-score': 0.9363784665579119, 'support': 2492.0}
+1: {'precision': 0.9242658423493045, 'recall': 0.9537480063795853, 'f1-score': 0.9387755102040816, 'support': 2508.0}
+accuracy: 0.9376
+macro avg: {'precision': 0.9380864866804566, 'recall': 0.9375481604931635, 'f1-score': 0.9375769883809968, 'support': 5000.0}
+weighted avg: {'precision': 0.938042260618597, 'recall': 0.9376, 'f1-score': 0.9375808236508306, 'support': 5000.0}
+
+Epoch 4
+0: {'precision': 0.9473039215686274, 'recall': 0.930577849117175, 'f1-score': 0.9388663967611336, 'support': 2492.0}
+1: {'precision': 0.9322100313479624, 'recall': 0.9485645933014354, 'f1-score': 0.9403162055335968, 'support': 2508.0}
+accuracy: 0.9396
+macro avg: {'precision': 0.9397569764582949, 'recall': 0.9395712212093053, 'f1-score': 0.9395913011473652, 'support': 5000.0}
+weighted avg: {'precision': 0.9397328262339419, 'recall': 0.9396, 'f1-score': 0.9395936208414012, 'support': 5000.0}
+
+
+
+Fold 5
+Epoch 1
+0: {'precision': 0.9278827612803703, 'recall': 0.9479905437352246, 'f1-score': 0.9378288832586241, 'support': 2538.0}
+1: {'precision': 0.9451599501454092, 'recall': 0.9240454914703493, 'f1-score': 0.9344834668309714, 'support': 2462.0}
+accuracy: 0.9362
+macro avg: {'precision': 0.9365213557128897, 'recall': 0.936018017602787, 'f1-score': 0.9361561750447978, 'support': 5000.0}
+weighted avg: {'precision': 0.9363900490775156, 'recall': 0.9362, 'f1-score': 0.9361816002096479, 'support': 5000.0}
+
+Epoch 2
+0: {'precision': 0.9316239316239316, 'recall': 0.9448384554767534, 'f1-score': 0.9381846635367762, 'support': 2538.0}
+1: {'precision': 0.9422918384171476, 'recall': 0.9285134037367994, 'f1-score': 0.9353518821603928, 'support': 2462.0}
+accuracy: 0.9368
+macro avg: {'precision': 0.9369578850205396, 'recall': 0.9366759296067764, 'f1-score': 0.9367682728485844, 'support': 5000.0}
+weighted avg: {'precision': 0.9368768089289111, 'recall': 0.9368, 'f1-score': 0.936789801987045, 'support': 5000.0}
+
+Epoch 3
+0: {'precision': 0.9217855780236551, 'recall': 0.9519306540583137, 'f1-score': 0.9366156231827875, 'support': 2538.0}
+1: {'precision': 0.9487179487179487, 'recall': 0.9167343623070674, 'f1-score': 0.9324519727329065, 'support': 2462.0}
+accuracy: 0.9346
+macro avg: {'precision': 0.935251763370802, 'recall': 0.9343325081826905, 'f1-score': 0.934533797957847, 'support': 5000.0}
+weighted avg: {'precision': 0.9350470773535253, 'recall': 0.9346, 'f1-score': 0.9345654417012662, 'support': 5000.0}
+
+Epoch 4
+0: {'precision': 0.943695479777954, 'recall': 0.9377462568951931, 'f1-score': 0.9407114624505929, 'support': 2538.0}
+1: {'precision': 0.9362389023405973, 'recall': 0.942323314378554, 'f1-score': 0.9392712550607288, 'support': 2462.0}
+accuracy: 0.94
+macro avg: {'precision': 0.9399671910592756, 'recall': 0.9400347856368736, 'f1-score': 0.9399913587556609, 'support': 5000.0}
+weighted avg: {'precision': 0.9400238610477994, 'recall': 0.94, 'f1-score': 0.9400023043318239, 'support': 5000.0}
