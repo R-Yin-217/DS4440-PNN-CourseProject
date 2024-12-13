@@ -17,7 +17,7 @@ This is the repository for the DS4440 Practical Neural Network Course Project at
 
         This folder contains the experiments for inverse modality, where BEiT processes text and BERT processes images, both pretrained and randomly initialized.
 
-    - constrastive
+    - contrastive
 
         This folder includes the code to extract features from images to create 768-dimensional vectors. It also contains the model used to process these vectors, both pretrained and randomly initialized.
 
@@ -26,7 +26,7 @@ This is the repository for the DS4440 Practical Neural Network Course Project at
     This directory includes the results and Jupyter files used to plot the graphs featured in the report.
 
 
-- What else do you need
+- what else do you need
 
     You should create a folder named “original,” which should include:
 	
