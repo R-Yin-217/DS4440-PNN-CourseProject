@@ -20,3 +20,15 @@ This is the repository for the DS4440 Practical Neural Network Course Project at
     - constrastive
 
         This folder includes the code to extract features from images to create 768-dimensional vectors. It also contains the model used to process these vectors, both pretrained and randomly initialized.
+
+- result
+
+    This directory includes the results and Jupyter files used to plot the graphs featured in the report.
+
+
+- What else do you need
+
+    You should create a folder named “original,” which should include:
+	
+    - A CSV file for the IMDb dataset.
+	- A folder named “Dog_Cat,” containing all 25,000 images from the Dogs and Cats dataset.
